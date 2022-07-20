@@ -1,0 +1,26 @@
+.mainPage{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.mainPageTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.mainPageTitleSmall{
+    position: absolute;
+    top: 45%;
+    font-size: 28px;
+    font-weight: bold;
+    color: #006165;
+}
+
+.mainPageTitleLarge{
+    position: absolute;
+    top: 23%;
+    font-size: 100px;
+    color: #243038;
+    
+}
